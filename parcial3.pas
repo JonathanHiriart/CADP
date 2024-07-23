@@ -18,7 +18,7 @@ type
         codigoJ:integer;
         apellido:string;
         nombre:string;
-        equipo:array [1..28] of integer;
+        equipo:integer;
         anioNac:integer;
         calificaciones:array [1..27] of calificacion;
     end;

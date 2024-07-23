@@ -1,9 +1,6 @@
 // una empresa de venta de pasajes aereos esta analizando la informacion de los viajes realizados por sus 
 // aviones .
-
-
 //  Para ello, DISPONE de una estructura de datos con la informacion de todos los viajes . 
-
 // De cada viaje
 // se conoce el codigo de avion (entre 1000 y 2500), el año en que se realizo el viaje,la cantidad de pasajeros
 // que viajaron, y la ciudad de destino. La informacion no se encuentra ordenada por nigun criterio.
